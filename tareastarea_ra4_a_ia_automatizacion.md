@@ -60,9 +60,14 @@ Define 3 métricas con valores antes/después:
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
+  Clasificación incorrecta de tickets por errores del modelo.
 - Mitigación 1:
+  Supervisión humana en casos críticos y reentrenamiento periódico del modelo.
 - Riesgo 2:
+  Dependencia excesiva de la automatización.
 - Mitigación 2:
-
+  Mantener revisión humana y protocolos manuales como respaldo.
+  
 ## 7) Fuente oficial
 - Enlace: 
+  https://learn.microsoft.com/
