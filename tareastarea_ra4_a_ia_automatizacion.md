@@ -42,11 +42,21 @@
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
 - Tiempo:
+  Antes: 30 minutos por ticket  
+  Después: 10 minutos por ticket  
 - Coste:
+  Antes: 15€ por ticket gestionado  
+  Después: 8€ por ticket gestionado  
 - Calidad:
+  Antes: 75% de tickets bien clasificados  
+  Después: 92% de tickets bien clasificados  
 
-## 5) Diagrama del flujo (ASCII o Mermaid)
-(Pega aquí el diagrama)
+## 5) Diagrama del flujo (Mermaid)
+    A[Usuario envía ticket] --> B[IA analiza texto]
+    B --> C[Clasifica y prioriza]
+    C --> D[Asigna a técnico]
+    D --> E[Técnico resuelve incidencia]
+    E --> F[Cierre del ticket]
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
