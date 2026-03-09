@@ -70,21 +70,38 @@ KPI 3: Tasa de abandono del carrito
 - Por qué mejora la rentabilidad: Se recuperan más ventas que antes se perdían, aumentando los ingresos totales.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-(Pega aquí el diagrama)
+
+```mermaid
+A[Usuarios web] --> B[Recogida de datos]
+B --> C[Limpieza y normalización]
+C --> D[Almacenamiento de datos]
+D --> E[Modelo de IA]
+E --> F[Recomendaciones de productos]
+F --> G[Cliente compra]
 
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 1: Problemas de privacidad de los datos de los usuarios.  
+- Mitigación 1: Cumplir con la normativa de protección de datos (RGPD) y anonimizar la información personal.
+
+Riesgo 2: Recomendaciones incorrectas o poco relevantes.  
+- Mitigación 2: Mejorar y actualizar el modelo de IA regularmente con nuevos datos y revisiones.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+
+- Importancia actual (hoy):  
+Hoy en día la inteligencia artificial es muy importante para las empresas porque permite analizar grandes cantidades de datos y tomar decisiones más rápidas y precisas. En el comercio electrónico se utiliza para recomendar productos, mejorar la experiencia del usuario y aumentar las ventas.
+
+- Importancia futura (3–5 años):  
+En los próximos años la IA será todavía más utilizada en las empresas. Los sistemas serán más avanzados y podrán predecir mejor el comportamiento de los clientes, automatizar tareas y optimizar procesos de negocio.
+
+- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):  
+Para usar IA es necesario tener datos de calidad y recursos tecnológicos. También hay que tener en cuenta la regulación sobre privacidad, los posibles sesgos en los modelos y la seguridad de los datos.
+
+- Conclusión razonada:  
+La IA seguirá creciendo y será cada vez más importante en muchos sectores. Si se utiliza correctamente, puede ayudar a las empresas a ser más eficientes, mejorar sus servicios y aumentar su rentabilidad.
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+
+- Big Data/analítica (enlace oficial): https://www.ibm.com/topics/big-data  
+- IA/técnica/modelo (enlace oficial): https://developers.google.com
