@@ -79,7 +79,7 @@ C --> D[Almacenamiento de datos]
 D --> E[Modelo de IA]
 E --> F[Recomendaciones de productos]
 F --> G[Cliente compra]
-
+```
 ## 7) Riesgos y mitigación
 
 Riesgo 1: Problemas de privacidad de los datos de los usuarios.  
