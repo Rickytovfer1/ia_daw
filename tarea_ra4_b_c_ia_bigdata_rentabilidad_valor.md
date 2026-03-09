@@ -1,7 +1,5 @@
 # Práctica IA (RA4 · b+c) — Big Data, análisis, rentabilidad y valoración IA
 
-# Práctica IA (RA4 · b+c) — Big Data, análisis, rentabilidad y valoración IA
-
 ## 1) Caso y objetivo de negocio
 - Empresa/sector (real o ficticia): ShopSmart, una tienda online ficticia dedicada a la venta de productos electrónicos, accesorios tecnológicos y gadgets.
 - Problema a resolver: La empresa recibe muchas visitas en su web, pero una gran parte de los usuarios no finaliza la compra. Además, los clientes no siempre encuentran productos que se ajusten a sus intereses.
