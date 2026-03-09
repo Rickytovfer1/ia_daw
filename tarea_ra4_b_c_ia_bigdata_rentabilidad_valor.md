@@ -24,33 +24,52 @@ Describe por qué es Big Data (volumen, velocidad, variedad).
 
 ## 3) Tratamiento/análisis: pipeline de datos
 Explica el flujo de forma ordenada:
-- Ingesta (captura/eventos):
-- Limpieza/normalización:
-- Almacenamiento (data lake/warehouse):
-- Preparación de variables (features):
-- Análisis/BI (opcional):
+
+- Ingesta (captura/eventos):  
+Los datos se capturan automáticamente cuando los usuarios interactúan con la web. Cada clic, búsqueda, producto visto o compra genera un evento que se envía al sistema de recogida de datos en tiempo real.
+
+- Limpieza/normalización:  
+Se eliminan datos duplicados o incompletos, se corrigen formatos incorrectos y se estandarizan los nombres de productos, usuarios y categorías para que todos los datos sean coherentes.
+
+- Almacenamiento (data lake/warehouse):  
+Los datos procesados se almacenan en un data lake donde se guardan grandes volúmenes de información. Posteriormente, los datos más relevantes se organizan en un data warehouse para facilitar su análisis.
+
+- Preparación de variables (features):  
+Se crean variables útiles para el modelo de IA, como el número de productos vistos por usuario, categorías favoritas, frecuencia de compra o tiempo medio entre compras.
+
+- Análisis/BI (opcional):  
+Los analistas utilizan herramientas de Business Intelligence para visualizar tendencias, analizar el comportamiento de los clientes y detectar oportunidades de mejora en las ventas.
 
 ## 4) IA aplicada: modelo y decisión
-- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
-- Salida del modelo (qué produce):
-- Decisión que habilita (qué hace la empresa con esa salida):
+
+- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):  
+Sistema de recomendación basado en aprendizaje automático para sugerir productos personalizados a cada usuario.
+
+- Entrada del modelo (qué datos usa):  
+Historial de compras de los usuarios, productos visitados, categorías de interés, tiempo de navegación y comportamiento general dentro de la tienda online.
+
+- Salida del modelo (qué produce):  
+Una lista de productos recomendados que tienen mayor probabilidad de interesar al usuario.
+
+- Decisión que habilita (qué hace la empresa con esa salida):  
+La tienda muestra recomendaciones personalizadas en la página principal para aumentar la probabilidad de que el cliente compre más productos.
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
-KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
 
-KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 1 (ingresos/coste/eficiencia): Tasa de conversión de visitantes a compradores  
+- Antes: 2% de los visitantes realizaban una compra.  
+- Después: 3.5% de los visitantes realizan una compra gracias a las recomendaciones personalizadas.  
+- Por qué mejora la rentabilidad: Aumenta el número de ventas sin necesidad de incrementar el gasto en publicidad.
 
-KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 2: Valor medio del pedido (ticket medio)  
+- Antes: 35 € por pedido.  
+- Después: 50 € por pedido debido a recomendaciones de productos relacionados.  
+- Por qué mejora la rentabilidad: Los clientes compran más artículos en cada pedido, lo que incrementa los ingresos por cliente.
+
+KPI 3: Tasa de abandono del carrito  
+- Antes: 70% de los usuarios abandonaban el carrito sin comprar.  
+- Después: 55% de abandono gracias a sugerencias relevantes y promociones personalizadas.  
+- Por qué mejora la rentabilidad: Se recuperan más ventas que antes se perdían, aumentando los ingresos totales.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
 (Pega aquí el diagrama)
