@@ -71,7 +71,6 @@ KPI 3: Tasa de abandono del carrito
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
 
-```mermaid
 A[Usuarios web] --> B[Recogida de datos]
 B --> C[Limpieza y normalización]
 C --> D[Almacenamiento de datos]
