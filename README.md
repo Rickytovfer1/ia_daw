@@ -1,21 +1,21 @@
 # Práctica IA (RA4 · f)
 
 ## 1) Caso de uso
-- Tipo de aplicación:
-- Problema:
-- Usuario:
+- Tipo de aplicación: Recomendador de productos en e-commerce
+- Problema: El usuario no encuentra fácilmente productos relevantes
+- Usuario: Clientes de tienda online
 
 ## 2) Datos
-- Datos:
-- Tipo minería:
+- Datos: Historial de compras y clics de usuarios
+- Tipo minería: Minería de patrones
 
 ## 3) Pipeline
-- Recogida:
-- Limpieza:
-- Transformación:
-- Entrenamiento:
-- Predicción:
-- Uso:
+- Recogida: Datos de navegación y compras
+- Limpieza: Eliminación de datos duplicados o incompletos
+- Transformación: Conversión a formato estructurado
+- Entrenamiento: Modelo de recomendación
+- Predicción: Productos sugeridos al usuario
+- Uso: Mostrar recomendaciones en la web
 
 ## 4) Integración
 - Backend:
