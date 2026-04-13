@@ -77,7 +77,7 @@ C --> F[Sistemas recomendadores]
 D --> G[Deep Learning]
 E --> H[Python]
 F --> H
-G --> I[C++]
+G --> I[C++] ```
 
 ## 6) Riesgos y mitigación
 - Riesgo 1: Falta de privacidad de datos
