@@ -80,16 +80,17 @@ F --> H
 G --> I[C++]
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Falta de privacidad de datos
+- Mitigación 1: Uso de cifrado y regulación (RGPD)
+
+- Riesgo 2: Sesgos en los modelos
+- Mitigación 2: Entrenamiento con datos variados y revisión
 
 ## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+- Qué sectores destacan más: Salud, comercio y transporte
+- Qué lenguajes aparecen con más frecuencia: Python
+- Qué importancia tiene esto para DAW/DAM: Permite crear aplicaciones más inteligentes y automatizadas
 
 ## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- Fuente 1 (sectores / aplicación IA): https://www.ibm.com/topics/artificial-intelligence
+- Fuente 2 (lenguajes / ecosistema técnico): https://www.python.org/about/apps/
