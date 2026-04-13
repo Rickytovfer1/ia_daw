@@ -18,16 +18,25 @@
 - Uso: Mostrar recomendaciones en la web
 
 ## 4) Integración
-- Backend:
-- Frontend:
-- Flujo:
+- Backend: API de recomendación (Python / Flask o FastAPI)
+- Frontend: Página web de productos (React o HTML)
+- Flujo: Usuario navega → Backend procesa datos → IA genera recomendaciones → Frontend muestra resultados
 
 ## 5) Valor
-- Mejora:
-- Sin IA:
-- Rentabilidad:
+- Mejora: Personalización de productos y mejor experiencia de usuario
+- Sin IA: Recomendaciones genéricas y menos ventas
+- Rentabilidad: Aumento de conversión y ventas
 
 ## 6) Diagrama
+
+```mermaid
+graph TD
+A[Usuario] --> B[Frontend Web]
+B --> C[Backend API]
+C --> D[Modelo IA]
+D --> C
+C --> B
+B --> A[Recomendaciones]
 
 ## 7) Riesgos
 - Riesgo 1:
