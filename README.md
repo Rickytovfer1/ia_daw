@@ -36,38 +36,48 @@
 ## 3) Lenguajes de programación en IA
 
 ### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: Python
+- Uso principal en IA: Machine Learning y Deep Learning
+- Ventajas: Fácil de usar, muchas librerías (TensorFlow, PyTorch)
+- Ejemplos de uso: Modelos predictivos, chatbots
 
 ### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: Java
+- Uso principal en IA: Aplicaciones empresariales
+- Ventajas: Portabilidad y rendimiento
+- Ejemplos de uso: Sistemas de recomendación
 
 ### Lenguaje 3
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: R
+- Uso principal en IA: Análisis de datos y estadística
+- Ventajas: Potente para cálculos estadísticos
+- Ejemplos de uso: Análisis de datos, predicciones
 
 ### Lenguaje 4
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+- Nombre: C++
+- Uso principal en IA: Sistemas de alto rendimiento
+- Ventajas: Muy rápido y eficiente
+- Ejemplos de uso: Motores de IA, videojuegos
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
-| Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
-|--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+| Sector              | Aplicación de IA           | Tipo de IA/técnica     | Lenguaje recomendado | Justificación                     |
+|---------------------|----------------------------|------------------------|----------------------|----------------------------------|
+| Salud               | Diagnóstico por imagen     | Machine Learning       | Python               | Librerías especializadas         |
+| Comercio electrónico| Recomendación de productos | Sistemas recomendadores| Python               | Fácil integración y uso de datos |
+| Transporte          | Vehículos autónomos        | Deep Learning          | C++                  | Alto rendimiento                 |
 
 ## 5) Diagrama (ASCII o Mermaid)
-(Pega aquí el diagrama)
+```mermaid
+graph TD
+A[IA] --> B[Salud]
+A --> C[Comercio]
+A --> D[Transporte]
+B --> E[Machine Learning]
+C --> F[Sistemas recomendadores]
+D --> G[Deep Learning]
+E --> H[Python]
+F --> H
+G --> I[C++]
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
