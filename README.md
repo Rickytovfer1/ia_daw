@@ -39,9 +39,11 @@ C --> B
 B --> A[Recomendaciones]
 
 ## 7) Riesgos
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Uso indebido de datos personales
+- Mitigación 1: Anonimización y cumplimiento de RGPD
+
+- Riesgo 2: Recomendaciones incorrectas o sesgadas
+- Mitigación 2: Entrenamiento con datos variados y validación del modelo
 
 ## 8) Fuente
+- Fuente: https://www.ibm.com/topics/recommendation-systems
