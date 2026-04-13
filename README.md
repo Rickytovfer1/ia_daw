@@ -2,33 +2,36 @@
 
 ## 1) Introducción
 - Objetivo de la práctica:
-- Relación con DAW/DAM:
+  Analizar los sectores donde la Inteligencia Artificial (IA) tiene una implantación relevante, comprendiendo cómo se aplica en distintos ámbitos y qué beneficios aporta. Además, identificar los lenguajes de programación más utilizados en IA y su relación con dichas aplicaciones.
 
+- Relación con DAW/DAM:
+  Esta práctica está relacionada con DAW y DAM ya que permite conocer cómo integrar soluciones de IA en aplicaciones reales, ya sea mediante APIs, procesamiento de datos, ampliando así las capacidades de desarrollo de software moderno.
+  
 ## 2) Sectores con implantación relevante de IA
 
 ### Sector 1
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Salud
+- Tipo de empresa/servicio: Hospitales y centros médicos
+- Aplicación de IA: Diagnóstico por imagen
+- Qué tarea mejora o automatiza: Análisis de radiografías y escáneres
+- Por qué la IA tiene implantación relevante en este sector: Gran cantidad de datos y necesidad de precisión
+- Beneficios que aporta: Diagnósticos más rápidos y precisos
 
 ### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Comercio electrónico
+- Tipo de empresa/servicio: Tiendas online
+- Aplicación de IA: Sistemas de recomendación
+- Qué tarea mejora o automatiza: Sugerencia de productos
+- Por qué la IA tiene implantación relevante en este sector: Mejora la experiencia del usuario
+- Beneficios que aporta: Aumento de ventas y personalización
 
 ### Sector 3
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Transporte
+- Tipo de empresa/servicio: Empresas de movilidad
+- Aplicación de IA: Vehículos autónomos
+- Qué tarea mejora o automatiza: Conducción y rutas
+- Por qué la IA tiene implantación relevante en este sector: Optimización y seguridad
+- Beneficios que aporta: Reducción de accidentes y eficiencia
 
 ## 3) Lenguajes de programación en IA
 
